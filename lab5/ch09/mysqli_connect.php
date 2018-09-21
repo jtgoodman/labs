@@ -5,8 +5,8 @@
 // selects the database, and sets the encoding.
 
 // Set the database access information as constants:
-define('DB_USER', 'forumuser');
-define('DB_PASSWORD', 'Gwood1595');
+define('DB_USER', 'root');
+define('DB_PASSWORD', 'mysqlsamplepassword');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'Forum');
 
