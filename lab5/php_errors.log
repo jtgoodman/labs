@@ -1,6 +1,125 @@
-[19-Sep-2018 23:59:10 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
-[19-Sep-2018 23:59:10 UTC] PHP Stack trace:
-[19-Sep-2018 23:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
-[19-Sep-2018 23:59:10 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
-[19-Sep-2018 23:59:10 UTC] PHP Stack trace:
-[19-Sep-2018 23:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:45:08 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:45:08 UTC] PHP Stack trace:
+[20-Sep-2018 00:45:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:45:08 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:45:08 UTC] PHP Stack trace:
+[20-Sep-2018 00:45:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:48:40 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:48:40 UTC] PHP Stack trace:
+[20-Sep-2018 00:48:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:48:40 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:48:40 UTC] PHP Stack trace:
+[20-Sep-2018 00:48:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:48:41 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:48:41 UTC] PHP Stack trace:
+[20-Sep-2018 00:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:48:41 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:48:41 UTC] PHP Stack trace:
+[20-Sep-2018 00:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:48:41 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:48:41 UTC] PHP Stack trace:
+[20-Sep-2018 00:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 00:48:41 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 00:48:41 UTC] PHP Stack trace:
+[20-Sep-2018 00:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 04:04:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/ubuntu/workspace/lab5/ch09/mysqli_connect.php on line 10
+[20-Sep-2018 04:04:50 UTC] PHP Stack trace:
+[20-Sep-2018 04:04:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 04:04:50 UTC] PHP   2. require() /home/ubuntu/workspace/lab5/ch09/view_users.php:10
+[20-Sep-2018 04:04:50 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/lab5/ch09/mysqli_connect.php:10
+[20-Sep-2018 04:07:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/ubuntu/workspace/lab5/ch09/mysqli_connect.php on line 10
+[20-Sep-2018 04:07:32 UTC] PHP Stack trace:
+[20-Sep-2018 04:07:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 04:07:32 UTC] PHP   2. require() /home/ubuntu/workspace/lab5/ch09/view_users.php:10
+[20-Sep-2018 04:07:32 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/lab5/ch09/mysqli_connect.php:10
+[20-Sep-2018 04:10:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/ubuntu/workspace/lab5/ch09/mysqli_connect.php on line 10
+[20-Sep-2018 04:10:14 UTC] PHP Stack trace:
+[20-Sep-2018 04:10:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 04:10:14 UTC] PHP   2. require() /home/ubuntu/workspace/lab5/ch09/view_users.php:10
+[20-Sep-2018 04:10:14 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/lab5/ch09/mysqli_connect.php:10
+[20-Sep-2018 22:04:05 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 22:04:05 UTC] PHP Stack trace:
+[20-Sep-2018 22:04:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[20-Sep-2018 22:04:05 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 22:04:05 UTC] PHP Stack trace:
+[20-Sep-2018 22:04:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[20-Sep-2018 22:24:28 UTC] PHP Warning:  require(..mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 22:24:28 UTC] PHP Stack trace:
+[20-Sep-2018 22:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:24:28 UTC] PHP Fatal error:  require(): Failed opening required '..mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 10
+[20-Sep-2018 22:24:28 UTC] PHP Stack trace:
+[20-Sep-2018 22:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:47:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 22:47:02 UTC] PHP Stack trace:
+[20-Sep-2018 22:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:47:02 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 22:50:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 22:50:57 UTC] PHP Stack trace:
+[20-Sep-2018 22:50:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:50:57 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 22:52:34 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 22:52:34 UTC] PHP Stack trace:
+[20-Sep-2018 22:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[20-Sep-2018 22:52:34 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 22:52:34 UTC] PHP Stack trace:
+[20-Sep-2018 22:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[20-Sep-2018 22:59:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 22:59:04 UTC] PHP Stack trace:
+[20-Sep-2018 22:59:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:59:04 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 22:59:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 22:59:10 UTC] PHP Stack trace:
+[20-Sep-2018 22:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:59:10 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 22:59:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 22:59:13 UTC] PHP Stack trace:
+[20-Sep-2018 22:59:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:59:13 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 22:59:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 22:59:16 UTC] PHP Stack trace:
+[20-Sep-2018 22:59:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 22:59:16 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 23:15:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 23:15:49 UTC] PHP Stack trace:
+[20-Sep-2018 23:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 23:15:49 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 23:15:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 23:15:52 UTC] PHP Stack trace:
+[20-Sep-2018 23:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 23:15:52 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 23:15:55 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 23:15:55 UTC] PHP Stack trace:
+[20-Sep-2018 23:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[20-Sep-2018 23:15:55 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 23:15:55 UTC] PHP Stack trace:
+[20-Sep-2018 23:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[20-Sep-2018 23:16:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 23:16:32 UTC] PHP Stack trace:
+[20-Sep-2018 23:16:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 23:16:32 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 23:16:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[20-Sep-2018 23:16:39 UTC] PHP Stack trace:
+[20-Sep-2018 23:16:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[20-Sep-2018 23:16:39 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[20-Sep-2018 23:21:32 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 23:21:32 UTC] PHP Stack trace:
+[20-Sep-2018 23:21:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[20-Sep-2018 23:21:32 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/lab5/ch09/register.php on line 10
+[20-Sep-2018 23:21:32 UTC] PHP Stack trace:
+[20-Sep-2018 23:21:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/register.php:0
+[21-Sep-2018 03:11:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[21-Sep-2018 03:11:56 UTC] PHP Stack trace:
+[21-Sep-2018 03:11:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[21-Sep-2018 03:11:56 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[21-Sep-2018 03:25:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 17
+[21-Sep-2018 03:25:00 UTC] PHP Stack trace:
+[21-Sep-2018 03:25:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[21-Sep-2018 03:25:00 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/lab5/ch09/view_users.php:17
+[21-Sep-2018 03:25:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 36
+[21-Sep-2018 03:25:00 UTC] PHP Stack trace:
+[21-Sep-2018 03:25:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[21-Sep-2018 03:25:00 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/lab5/ch09/view_users.php:36
+[21-Sep-2018 03:25:00 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/lab5/ch09/view_users.php on line 43
+[21-Sep-2018 03:25:00 UTC] PHP Stack trace:
+[21-Sep-2018 03:25:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/lab5/ch09/view_users.php:0
+[21-Sep-2018 03:25:00 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/lab5/ch09/view_users.php:43

@@ -7,7 +7,7 @@ include('includes/header.html');
 // Check for form submission:
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
-	require('../mysqli_connect.php'); // Connect to the db.
+	require('/home/ubuntu/workspace/lab5/ch09/mysqli_connect.php'); // Connect to the db.
 
 	$errors = []; // Initialize an error array.
 
